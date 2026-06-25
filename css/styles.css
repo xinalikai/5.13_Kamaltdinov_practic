@@ -406,7 +406,7 @@ figcaption {
 .modules-list {
     display: flex;
     flex-wrap: wrap;
-    gap: 30px;
+    gap: 25px;
     list-style: none;
     padding: 0;
     margin: 0;
