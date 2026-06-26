@@ -20,7 +20,7 @@ body {
 }
 
 .article-content {
-    max-width: 920px;
+    max-width: 790px;
     margin: 0;
 }
 
@@ -32,7 +32,7 @@ body {
 .article-content .framed-image,
 .article-content .card-image,
 .article-content .framed-figure {
-    max-width: 920px;
+    max-width: 790px;
 }
 
 .article-content h1 {
@@ -51,7 +51,7 @@ body {
 
 h1 {
     font-weight: 400;
-    font-size: 60px;
+    font-size: 52px;
     line-height: 60px;
     color: #333333;
     margin-bottom: 24px;
@@ -80,7 +80,7 @@ h3 {
 
 p {
     font-weight: 400;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 32px;
     color: #333333;
     margin-bottom: 16px;
@@ -264,6 +264,7 @@ figcaption {
     word-wrap: break-word;
     overflow-wrap: break-word;
     font-size: 14px;
+    max-width: 650px;
 }
 
 .content-text h2 {
@@ -291,7 +292,7 @@ figcaption {
 .content-list li a {
     font-weight: 700;
     border-bottom: 1px solid #3f2aff;
-    font-size: 20px;
+    font-size: 18px;
     color: #3f2aff;
 }
 
@@ -405,6 +406,7 @@ figcaption {
     word-wrap: break-word;
     overflow-wrap: break-word;
     font-size: 14px;
+    max-width: 650px;
 }
 
 .end-text h2 {
